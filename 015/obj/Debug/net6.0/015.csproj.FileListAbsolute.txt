@@ -1,0 +1,15 @@
+C:\projects\Языки программирования\00002\015\bin\Debug\net6.0\015.exe
+C:\projects\Языки программирования\00002\015\bin\Debug\net6.0\015.deps.json
+C:\projects\Языки программирования\00002\015\bin\Debug\net6.0\015.runtimeconfig.json
+C:\projects\Языки программирования\00002\015\bin\Debug\net6.0\015.dll
+C:\projects\Языки программирования\00002\015\bin\Debug\net6.0\015.pdb
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.csproj.AssemblyReference.cache
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.AssemblyInfoInputs.cache
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.AssemblyInfo.cs
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.csproj.CoreCompileInputs.cache
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.dll
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\refint\015.dll
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.pdb
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\015.genruntimeconfig.cache
+C:\projects\Языки программирования\00002\015\obj\Debug\net6.0\ref\015.dll

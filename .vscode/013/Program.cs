@@ -4,18 +4,18 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
- 
+
 
 Console.WriteLine("Введите число: ");
 string number = Console.ReadLine();
 
-if(number.Length < 3)
+if (number.Length < 3)
 {
     Console.WriteLine("Третьей цифры нет");
 
 }
-else 
+else
 {
-    Console.WriteLine(number [2]);
+    Console.WriteLine(number[2]);
 
 }
