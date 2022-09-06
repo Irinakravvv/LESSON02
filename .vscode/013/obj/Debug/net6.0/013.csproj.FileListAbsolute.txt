@@ -1,0 +1,15 @@
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.csproj.AssemblyReference.cache
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.AssemblyInfoInputs.cache
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.AssemblyInfo.cs
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.csproj.CoreCompileInputs.cache
+C:\projects\Языки программирования\00002\.vscode\013\bin\Debug\net6.0\013.exe
+C:\projects\Языки программирования\00002\.vscode\013\bin\Debug\net6.0\013.deps.json
+C:\projects\Языки программирования\00002\.vscode\013\bin\Debug\net6.0\013.runtimeconfig.json
+C:\projects\Языки программирования\00002\.vscode\013\bin\Debug\net6.0\013.dll
+C:\projects\Языки программирования\00002\.vscode\013\bin\Debug\net6.0\013.pdb
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.dll
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\refint\013.dll
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.pdb
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\013.genruntimeconfig.cache
+C:\projects\Языки программирования\00002\.vscode\013\obj\Debug\net6.0\ref\013.dll
